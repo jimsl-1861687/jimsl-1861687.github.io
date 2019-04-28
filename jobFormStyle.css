@@ -1,0 +1,68 @@
+h2 {
+    border-style: dashed;
+    border-color: blue;
+    color: green;
+    font-size: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+#account {
+    font-size: 30px;
+    margin: 15px;
+    color: purple;
+    font-family: Impact;
+}
+
+#pi {
+    font-size: 35px;
+    background-color: lightblue;
+    color: red;
+    text-align: center;
+    padding-top: 10px;
+    
+}
+
+#available {
+    text-align: right;
+    font-family: Cursive;
+    text-decoration: underline;
+    letter-spacing: -2px;
+    font-size: 20px;
+}
+
+#pS {
+    font-family: monospace;
+    font-size: 30px;
+    color: orangered;
+    font-weight: bolder;
+    letter-spacing: 20px;
+    text-align: center;
+}
+
+#why.field {
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: Georgia;
+    text-decoration: overline;
+}
+
+#describe.field {
+    text-align: right;
+    margin: 10px;
+    font-size: 25px;
+    color: white;
+    word-spacing: 20px;
+    background-image: url("https://ippcdn-ippawards.netdna-ssl.com/wp-content/uploads/2018/07/34-1st-PANORAMA-Mateusz-Piesiak-1.jpg");
+    background-position: center; 
+}
+
+#hours.field {
+    float: right;
+    margin-right: 30px;
+    font-family: 'Trebuchet MS';
+    border-style: solid;
+    border-width: 20px;
+    border-color: red green yellow blue;
+    padding: 10px;
+}
